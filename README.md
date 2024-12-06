@@ -1,6 +1,12 @@
 ### Hi there 👋
+![GITHUB INFO](https://github-readme-stats.vercel.app/api?username=bbruceyuan&show_icons=true&include_all_commits=true)
+
 
 来了解我吧~
+- 我的博客： https://bruceyuan.com
+- B站视频：  https://space.bilibili.com/12420432
+- YouTube： https://www.youtube.com/@bbruceyuan
+- 我的微信： bbruceyuan
 
 <!--
 **bbruceyuan/bbruceyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
