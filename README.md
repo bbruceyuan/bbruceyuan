@@ -35,11 +35,11 @@
 
 | 技术文章 | 非技术文章 |
 |----------|------------|
-| 2026-01-01 [从零手写 RoPE 位置编码：原理、PyTorch 源码实现与可视化理解](https://yuanchaofa.com/post/hands-on-rope-position-embedding.html) | 2025-12-06 [Keep Looking, Don't Settle：重听乔布斯演讲（25-11-月度小结）](https://yuanchaofa.com/blog/2025-11-month-summary.html) |
-| 2025-11-09 [Kimi-K2 和 Kimi-K2-Thinking 深度解读：从预训练优化到 Agentic 能力训练的完整流程（含MuonClip优化、Agentic 数据合成等）](https://yuanchaofa.com/post/kimi-k2-and-kimi-k2-thinking-notes.html) | 2025-11-02 [影视飓风TIM成功背后：一个程序员对自媒体商业化的深度复盘（25年10月月度小结）](https://yuanchaofa.com/blog/2025-10-month-summary.html) |
-| 2025-10-03 [RAG 进化之路：传统 RAG 到工具与强化学习双轮驱动的 Agentic RAG](https://yuanchaofa.com/post/from-native-rag-to-agentic-rag.html) | 2025-10-04 [2025-09-合法赚钱就是高尚的（月度小结）](https://yuanchaofa.com/blog/2025-09-month-summary.html) |
-| 2025-07-13 [Gemini 2.5 Pro 是怎么炼成的？-- gemini 2.5 技术报告阅读笔记与思考](https://yuanchaofa.com/post/gemini-2.5-tech-report-reading-note.html) | 2025-09-10 [2025-08-孙宇晨真的很值得学习（八月小结）](https://yuanchaofa.com/blog/2025-08-month-summary.html) |
-| 2025-05-25 [自适应快慢思考推理模型（Adaptive Reasoning Model）：Qwen3混合思考->字节AdaCoT->清华AdaptThinking](https://yuanchaofa.com/post/slow-fast-thinking-from-qwen3-thinking-mixed-to-adacot-to-adathinking.html) | 2025-08-10 [2025-07-忙碌与充实的七月（月度小结）](https://yuanchaofa.com/blog/2025-07-month-summary.html) |
+| 2026-01-10 [DPO 算法原理与代码实现：让 LLM 对齐变得简单](https://yuanchaofa.com/post/hands-on-dpo-direct-preference-optimization.html) | 2025-12-06 [Keep Looking, Don't Settle：重听乔布斯演讲（25-11-月度小结）](https://yuanchaofa.com/blog/2025-11-month-summary.html) |
+| 2026-01-01 [从零手写 RoPE 位置编码：原理、PyTorch 源码实现与可视化理解](https://yuanchaofa.com/post/hands-on-rope-position-embedding.html) | 2025-11-02 [影视飓风TIM成功背后：一个程序员对自媒体商业化的深度复盘（25年10月月度小结）](https://yuanchaofa.com/blog/2025-10-month-summary.html) |
+| 2025-11-09 [Kimi-K2 和 Kimi-K2-Thinking 深度解读：从预训练优化到 Agentic 能力训练的完整流程（含MuonClip优化、Agentic 数据合成等）](https://yuanchaofa.com/post/kimi-k2-and-kimi-k2-thinking-notes.html) | 2025-10-04 [2025-09-合法赚钱就是高尚的（月度小结）](https://yuanchaofa.com/blog/2025-09-month-summary.html) |
+| 2025-10-03 [RAG 进化之路：传统 RAG 到工具与强化学习双轮驱动的 Agentic RAG](https://yuanchaofa.com/post/from-native-rag-to-agentic-rag.html) | 2025-09-10 [2025-08-孙宇晨真的很值得学习（八月小结）](https://yuanchaofa.com/blog/2025-08-month-summary.html) |
+| 2025-07-13 [Gemini 2.5 Pro 是怎么炼成的？-- gemini 2.5 技术报告阅读笔记与思考](https://yuanchaofa.com/post/gemini-2.5-tech-report-reading-note.html) | 2025-08-10 [2025-07-忙碌与充实的七月（月度小结）](https://yuanchaofa.com/blog/2025-07-month-summary.html) |
 
 > [!NOTE]
 > 更多文章请访问
